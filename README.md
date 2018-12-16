@@ -6,7 +6,7 @@ The members of this group are:
 - Antonio Rivero (arr4382)
 - Alex Barberia (ab67895)
 
-All the code is in i1-2.ipynb
+All the code is in i1-2.py
 
 All the data is available in: https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
 
