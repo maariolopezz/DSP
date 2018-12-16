@@ -8,6 +8,6 @@ The members of this group are:
 
 All the code is in i1-2.py
 
-All the data is available in: https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
+All the data is available in: https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data, we have used all the possible files.
 
 We can not include the code in this repository due to the size.
